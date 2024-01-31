@@ -1,6 +1,6 @@
 **Important Notes:**
 
-- **In accordance with Juno's community-approved policy, only open-source projects are eligible for funding. 
+- In accordance with Juno's community-approved policy, **only open-source projects are eligible for funding**.
 - **Clarity and Conciseness:** Present information in a clear and concise manner to enhance readability.
 - **Relevance:** Focus on key details pertinent to the grant evaluation process.
 
