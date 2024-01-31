@@ -36,3 +36,14 @@ Describe how Juno benefits from this grant, outlining the contributions the proj
 The team has been collaborating for X years, and...
 
 ## Team Code Repos
+* [Example Repo 1](https://github.com/<example_repo_1>)
+* [Example Repo 2](https://github.com/<example_repo_2>)
+
+## Development Roadmap
+Evaluate the timeframes for each development stage, outlining milestones such as:
+* Implement X (weeks 0 - 4).
+* Implement Y (weeks 4 - 8).
+* Implement Z (weeks 8 - 12).
+
+## Additional Information
+N/A.
